@@ -1,2 +1,6 @@
 # Event Registration
 Use Vision OCR and Apple Intelligence foundation models to analyse uploaded images and add events to calendar
+
+## 🎥 Local Demo
+[Watch the demo](./assets/demo.mp4)
+
